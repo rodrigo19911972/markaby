@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Update the heatmap module code + docs (#7045)
