@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
