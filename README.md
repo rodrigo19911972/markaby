@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Elaborate Train and Predict mode docs arguments (#8137)
