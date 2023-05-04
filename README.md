@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+New HUB Cloud Training docs page (#8174)
