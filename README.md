@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
