@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
