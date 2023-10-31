@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add NCNN Docs Integrations Page (#8562)
