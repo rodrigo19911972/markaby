@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Feature: Create HUB Models from CLI or Python Script (#7316)
