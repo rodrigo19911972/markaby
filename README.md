@@ -1,1 +1,1 @@
-added badges (#45)
+Improve Docs arguments tables (#8415)
