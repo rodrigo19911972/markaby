@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
