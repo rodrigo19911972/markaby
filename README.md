@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Fix TypeError in check_cfg() (#9245)
