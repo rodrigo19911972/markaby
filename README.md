@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Update Docs robots.txt (#7728)
