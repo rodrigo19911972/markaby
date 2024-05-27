@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
