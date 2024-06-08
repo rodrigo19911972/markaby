@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Updated SQL Query Plot Code (#8120)
