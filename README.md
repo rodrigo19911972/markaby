@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Avoid creating -hub dir without processing images (#8334)
