@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Update Roboflow segmentation Docs pages (#8094)
